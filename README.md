@@ -1,6 +1,3 @@
-Here is a modified version of the README for your **Human Pose Estimation with OpenCV and Streamlit** project:
-
----
 
 # HUMAN-POSE-ESTIMATION-USING-ML
 
@@ -132,8 +129,4 @@ Feel free to fork the repository, clone it to your local machine, and contribute
 ## Licenses
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-This README provides complete instructions and information for running your project, including dependencies, setup instructions, and links to the code repository. Just replace the placeholder URLs and information like `your-username` with actual details.
 
