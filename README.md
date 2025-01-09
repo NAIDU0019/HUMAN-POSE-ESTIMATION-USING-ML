@@ -1,8 +1,5 @@
 # HUMAN-POSE-ESTIMATION-USING-ML
 
-# Human Pose Estimation with OpenCV and Streamlit
-
-
 
 ### Overview
 
