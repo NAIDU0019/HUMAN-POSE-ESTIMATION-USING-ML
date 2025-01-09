@@ -112,6 +112,7 @@ HUMAN-POSE-ESTIMATION-USING-ML/
 
 ### Snapshot 1: Original Image
 ![image](https://github.com/user-attachments/assets/ea2c8eb9-93e6-4cb0-aac8-bcdaf5598d76)
+
 This snapshot shows the image that is uploaded by the user. The pose estimation model will process this image to detect human poses.
 
 ### Snapshot 2: Pose Estimated Image
