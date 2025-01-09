@@ -111,11 +111,12 @@ pose-estimation/
 ## Snapshots
 
 ### Snapshot 1: Original Image
-![Original Image](images/original_image.jpg)
+![image](https://github.com/user-attachments/assets/4b32c51d-fc8c-4df4-9528-e958c259646b)
 This snapshot shows the image that is uploaded by the user. The pose estimation model will process this image to detect human poses.
 
 ### Snapshot 2: Pose Estimated Image
-![Pose Estimated Image](images/pose_estimated.jpg)
+![image](https://github.com/user-attachments/assets/6ed01894-d4d1-41e0-8bf3-d554e48921b7)
+
 This snapshot shows the result after pose estimation. The key body parts are detected and connected with lines to form a skeleton, representing the human pose in the image.
 
 ## GitHub Link for Code
