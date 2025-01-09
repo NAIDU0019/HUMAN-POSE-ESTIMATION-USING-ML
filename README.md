@@ -72,10 +72,10 @@ pip install -r requirements.txt
 
 ### 4. Run the Application
 
-Once the dependencies are installed, run the Streamlit app:
+Once the dependencies are installed, run the Streamlit apk:
 
 ```bash
-streamlit run app.py
+streamlit run apk.py
 ```
 
 This will open the Streamlit app in your browser.
@@ -94,7 +94,7 @@ The project contains the following files and directories:
 ```
 HUMAN-POSE-ESTIMATION-USING-ML/
 │
-├── app.py                # Streamlit app that runs the pose estimation logic
+├── apk.py                # Streamlit app that runs the pose estimation logic
 ├── graph_opt.pb          # Pre-trained pose estimation model
 ├── requirements.txt      # List of required Python packages
 ├── images/               # Folder for storing snapshots and images
@@ -111,11 +111,12 @@ HUMAN-POSE-ESTIMATION-USING-ML/
 ## Snapshots
 
 ### Snapshot 1: Original Image
-![image](https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML/raw/main/images/original_image.jpg)
+![image](https://github.com/user-attachments/assets/ea2c8eb9-93e6-4cb0-aac8-bcdaf5598d76)
 This snapshot shows the image that is uploaded by the user. The pose estimation model will process this image to detect human poses.
 
 ### Snapshot 2: Pose Estimated Image
-![image](https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML/raw/main/images/pose_estimated.jpg)
+![image](https://github.com/user-attachments/assets/6a766ac5-1343-4f13-b2a0-da8f5c1dab4a)
+
 
 This snapshot shows the result after pose estimation. The key body parts are detected and connected with lines to form a skeleton, representing the human pose in the image.
 
