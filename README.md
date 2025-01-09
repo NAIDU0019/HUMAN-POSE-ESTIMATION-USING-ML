@@ -1,5 +1,8 @@
-# HUMAN-POSE-ESTIMATION-USING-ML
+Here is a modified version of the README for your **Human Pose Estimation with OpenCV and Streamlit** project:
 
+---
+
+# HUMAN-POSE-ESTIMATION-USING-ML
 
 ### Overview
 
@@ -46,8 +49,8 @@ Follow the steps below to run the project on your local machine.
 First, clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/pose-estimation.git
-cd pose-estimation
+git clone https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML.git
+cd HUMAN-POSE-ESTIMATION-USING-ML
 ```
 
 ### 2. Set Up a Virtual Environment
@@ -89,7 +92,7 @@ The application will process the image, detect human poses, and display the resu
 The project contains the following files and directories:
 
 ```
-pose-estimation/
+HUMAN-POSE-ESTIMATION-USING-ML/
 │
 ├── app.py                # Streamlit app that runs the pose estimation logic
 ├── graph_opt.pb          # Pre-trained pose estimation model
@@ -108,11 +111,11 @@ pose-estimation/
 ## Snapshots
 
 ### Snapshot 1: Original Image
-![image](https://github.com/user-attachments/assets/4b32c51d-fc8c-4df4-9528-e958c259646b)
+![image](https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML/raw/main/images/original_image.jpg)
 This snapshot shows the image that is uploaded by the user. The pose estimation model will process this image to detect human poses.
 
 ### Snapshot 2: Pose Estimated Image
-![image](https://github.com/user-attachments/assets/6ed01894-d4d1-41e0-8bf3-d554e48921b7)
+![image](https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML/raw/main/images/pose_estimated.jpg)
 
 This snapshot shows the result after pose estimation. The key body parts are detected and connected with lines to form a skeleton, representing the human pose in the image.
 
@@ -120,7 +123,7 @@ This snapshot shows the result after pose estimation. The key body parts are det
 
 You can access the full code for this project on GitHub:
 
-[Pose Estimation Project Repository](https://github.com/your-username/pose-estimation)
+[Pose Estimation Project Repository](https://github.com/NAIDU0019/HUMAN-POSE-ESTIMATION-USING-ML)
 
 Feel free to fork the repository, clone it to your local machine, and contribute to the project!
 
@@ -131,3 +134,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This README provides complete instructions and information for running your project, including dependencies, setup instructions, and links to the code repository. Just replace the placeholder URLs and information like `your-username` with actual details.
+
